@@ -1,5 +1,4 @@
 Flask==3.0.3
 gunicorn==21.2.0
-supabase==2.4.0
+supabase-py==1.0.3
 requests==2.32.3
-httpx==0.25.2
